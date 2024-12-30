@@ -2,7 +2,10 @@ class Solution(object):
     def splitWordsBySeparator(self, words, separator):
         temp = []
         for x in words:
-            temp.extend([s for s in x.split(separator) if s])  
+            splits = x.split(separator) 
+            for sp in splits:
+                if sp:
+                    temp.append(sp)  
         return temp
 
 
