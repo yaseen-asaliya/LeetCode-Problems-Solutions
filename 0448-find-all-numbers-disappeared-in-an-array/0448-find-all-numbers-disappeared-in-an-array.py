@@ -9,5 +9,3 @@ class Solution(object):
                 res.append(num)
 
         return res
-
-        
