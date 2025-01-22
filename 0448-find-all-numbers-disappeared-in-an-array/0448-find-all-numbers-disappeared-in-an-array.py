@@ -1,10 +1,13 @@
 class Solution(object):
     def findDisappearedNumbers(self, nums):
-        for num in nums:
-            index = abs(num) - 1  
-            nums[index] = -abs(nums[index])  
+        l = len(nums)
+        nums = set(nums)
+        res = []
 
-        return [i + 1 for i in range(len(nums)) if nums[i] > 0]
+        for num in range(1, l + 1):
+            if not num in nums:
+                res.append(num)
 
+        return res
 
         
