@@ -3,12 +3,8 @@ class Solution(object):
         if len(s) != len(t):
             return False
 
-        s = ''.join(sorted(s))
-        t = ''.join(sorted(t))
-        
-        for l1, l2 in zip(s,t):
-            if l1 != l2:
+        for letter in set(s):
+            if s.count(letter) != t.count(letter):
                 return False
-
-        return True
         
+        return True
