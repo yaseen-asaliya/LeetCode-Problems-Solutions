@@ -1,15 +1,7 @@
 class Solution(object):
     def canConstruct(self, ransomNote, magazine):
+        for char in set(ransomNote):
+            if char not in magazine or magazine.count(char) < ransomNote.count(char):
+                return False
         
-        magazine = list(magazine)
-        
-        for letter in ransomNote:
-            if letter != '0': 
-                z = magazine.index(letter) if letter in magazine else -1
-                
-                if z == -1:
-                    return False
-                
-                magazine[z] = '0' 
-                
         return True
