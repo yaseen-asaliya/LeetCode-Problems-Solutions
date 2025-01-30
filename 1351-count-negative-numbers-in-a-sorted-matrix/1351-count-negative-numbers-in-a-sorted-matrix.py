@@ -7,5 +7,7 @@ class Solution:
             for index in range(l, 0, -1):
                 if row[index-1] < 0:
                     c+=1
+                else:
+                    break
 
         return c
