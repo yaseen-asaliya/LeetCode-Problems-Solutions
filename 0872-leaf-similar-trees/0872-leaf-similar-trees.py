@@ -8,18 +8,18 @@ class Solution:
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
         temp1 = []
         temp2 = []
-
-        def traversal(root, tt):
-            if root is None:
-                return None
-
-            if root.left == None and root.right == None:
-                tt.append(root.val)
-
-            traversal(root.left, tt)
-            traversal(root.right, tt)
         
-        traversal(root1, temp1)
-        traversal(root2, temp2)
+        self.traversal(root1, temp1)
+        self.traversal(root2, temp2)
         return temp1 == temp2
-            
+
+    def traversal(self, root, tt):
+        if root is None:
+            return
+
+        if root.left is None and root.right is None:
+            tt.append(root.val)
+            return  
+
+        self.traversal(root.left, tt)
+        self.traversal(root.right, tt)
