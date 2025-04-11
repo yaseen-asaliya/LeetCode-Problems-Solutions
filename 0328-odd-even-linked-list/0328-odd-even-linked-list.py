@@ -10,7 +10,7 @@ class Solution:
         
         odd = head
         even = head.next
-        even_head = even  # Save this to connect at the end
+        even_head = even  
 
         while even and even.next:
             odd.next = even.next
