@@ -1,10 +1,12 @@
 class Solution:
     def tribonacci(self, n: int) -> int:
-        memo = {0: 0, 1: 1, 2: 1}
+        p1, p2, p3 = 0, 1, 1
+        temp = p1+p2+p3
 
-        def trib(n):
-            if n not in memo:
-                memo[n] = trib(n - 1) + trib(n - 2) + trib(n - 3)
-            return memo[n]
-
-        return trib(n)
+        for x in range(2, n):
+            temp = p1+p2+p3
+            p1=p2
+            p2=p3
+            p3=temp
+        
+        return temp
