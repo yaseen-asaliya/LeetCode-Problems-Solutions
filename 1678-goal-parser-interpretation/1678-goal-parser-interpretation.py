@@ -6,16 +6,13 @@ class Solution:
             '(al)': 'al'
         }
         res = ""
+        tmp = ""
 
         for index in range(len(command)):
-            if command[index] == 'G':
-                res += dic['G']
-            elif command[index] == '(' and command[index+1] == ')':
-                res += dic['()']
-                index += 2
-            elif command[index] == '(' and command[index+1] == 'a':
-                res += dic['(al)']
-                index += 5
-        
+            tmp+=command[index]
+            if(tmp in dic):
+                res+=dic[tmp]
+                tmp=""
+
         return res 
 
