@@ -1,19 +1,19 @@
 class Solution:
     def maxFreqSum(self, s: str) -> int:
-        vowel = (set(['a', 'e', 'i', 'o', 'u']))
-        vowel_freq = {}
-        not_vowel_freq = {}
-        max_vowel_freq = 0
-        max_not_vowel_freq = 0
-
-        for x in s:
-            if x in vowel:
-                vowel_freq[x] = vowel_freq.get(x, 0) + 1
-                if vowel_freq[x] > max_vowel_freq:
-                    max_vowel_freq = vowel_freq[x]
+        gl = ['a', 'e', 'i', 'o', 'u']
+        glas = {}
+        sogl = {}
+        for i in s:
+            if i in gl:
+                glas[i] = glas.get(i, 0) + 1
             else:
-                not_vowel_freq[x] = not_vowel_freq.get(x, 0) + 1
-                if not_vowel_freq[x] > max_not_vowel_freq:
-                    max_not_vowel_freq = not_vowel_freq[x]
-
-        return max_vowel_freq + max_not_vowel_freq
+                sogl[i] = sogl.get(i, 0) + 1
+        maxg = 0
+        maxs = 0
+        for _, value in glas.items():
+            if value > maxg:
+                maxg = value
+        for _, v in sogl.items():
+            if v > maxs:
+                maxs = v
+        return maxg+maxs
