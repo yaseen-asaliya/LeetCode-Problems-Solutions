@@ -14,7 +14,15 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0031-next-permutation](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0031-next-permutation/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0031-next-permutation](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0031-next-permutation/) | Medium |
 <!---LeetCode Topics End-->
