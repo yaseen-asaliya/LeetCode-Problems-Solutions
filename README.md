@@ -25,4 +25,16 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0031-next-permutation/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 <!---LeetCode Topics End-->
