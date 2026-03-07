@@ -30,6 +30,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,8 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 <!---LeetCode Topics End-->
