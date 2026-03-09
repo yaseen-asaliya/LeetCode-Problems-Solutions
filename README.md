@@ -58,4 +58,20 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
