@@ -22,6 +22,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
@@ -46,6 +48,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
