@@ -23,6 +23,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0031-next-permutation](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +79,12 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 <!---LeetCode Topics End-->
