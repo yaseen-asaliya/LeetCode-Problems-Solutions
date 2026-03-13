@@ -25,6 +25,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
