@@ -38,6 +38,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
