@@ -75,10 +75,12 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
