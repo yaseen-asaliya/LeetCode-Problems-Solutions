@@ -81,6 +81,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0386-lexicographical-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +99,8 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 <!---LeetCode Topics End-->
