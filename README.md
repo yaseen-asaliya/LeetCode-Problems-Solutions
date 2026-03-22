@@ -54,6 +54,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -103,4 +105,8 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 <!---LeetCode Topics End-->
