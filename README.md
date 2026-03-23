@@ -35,6 +35,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -44,6 +45,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -109,4 +111,8 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
