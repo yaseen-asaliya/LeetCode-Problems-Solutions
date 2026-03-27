@@ -43,6 +43,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -135,4 +136,8 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2785-sort-vowels-in-a-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
