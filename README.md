@@ -24,6 +24,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -66,6 +67,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -78,6 +80,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -140,4 +143,8 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2785-sort-vowels-in-a-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 <!---LeetCode Topics End-->
