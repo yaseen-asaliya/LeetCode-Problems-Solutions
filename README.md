@@ -36,6 +36,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0148-sort-list](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0148-sort-list/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Bit Manipulation
@@ -159,4 +162,12 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1314-matrix-block-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1314-matrix-block-sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
