@@ -30,6 +30,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1314-matrix-block-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1314-matrix-block-sum/) | Medium |
 | [1436-destination-city](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1436-destination-city/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1436-destination-city](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1436-destination-city/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -147,6 +149,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
