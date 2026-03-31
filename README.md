@@ -170,4 +170,8 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0148-sort-list/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0194-transpose-file](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0194-transpose-file/) | Medium |
 <!---LeetCode Topics End-->
