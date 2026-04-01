@@ -24,6 +24,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0722-remove-comments](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0722-remove-comments/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0932-beautiful-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0932-beautiful-array/) | Medium |
@@ -44,6 +45,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | ------- | ------- |
 | [0394-decode-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0722-remove-comments](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0722-remove-comments/) | Medium |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1436-destination-city](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1436-destination-city/) | Easy |
