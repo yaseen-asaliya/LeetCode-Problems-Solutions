@@ -35,6 +35,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1572-matrix-diagonal-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -162,6 +165,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | ------- | ------- |
 | [0148-sort-list](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0148-sort-list/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
