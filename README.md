@@ -60,6 +60,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0390-elimination-game](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0394-decode-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -126,6 +127,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0390-elimination-game](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0932-beautiful-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0932-beautiful-array/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
