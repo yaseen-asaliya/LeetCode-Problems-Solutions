@@ -37,6 +37,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -194,4 +196,8 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0194-transpose-file](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0194-transpose-file/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 <!---LeetCode Topics End-->
