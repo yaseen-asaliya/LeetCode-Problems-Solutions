@@ -76,6 +76,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0357-count-numbers-with-unique-digits](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0740-delete-and-earn](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0740-delete-and-earn/) | Medium |
+| [0788-rotated-digits](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | ------- | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0390-elimination-game](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0390-elimination-game/) | Medium |
+| [0788-rotated-digits](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0932-beautiful-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0932-beautiful-array/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
