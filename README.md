@@ -20,6 +20,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -47,6 +48,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0394-decode-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0722-remove-comments](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0722-remove-comments/) | Medium |
@@ -145,6 +147,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
