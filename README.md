@@ -23,6 +23,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0014-longest-common-prefix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0075-sort-colors](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0722-remove-comments](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0722-remove-comments/) | Medium |
@@ -43,6 +44,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0075-sort-colors](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 ## String
@@ -175,6 +177,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0148-sort-list/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
