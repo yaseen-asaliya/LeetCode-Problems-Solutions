@@ -29,6 +29,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0722-remove-comments](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0722-remove-comments/) | Medium |
 | [0740-delete-and-earn](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0812-largest-triangle-area](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
+| [0860-lemonade-change](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0932-beautiful-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0932-beautiful-array/) | Medium |
@@ -107,6 +108,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0860-lemonade-change](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 ## Tree
