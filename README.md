@@ -117,6 +117,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0094-binary-tree-inorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -124,6 +125,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0094-binary-tree-inorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -135,6 +137,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0094-binary-tree-inorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -164,6 +167,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0394-decode-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Divide and Conquer
