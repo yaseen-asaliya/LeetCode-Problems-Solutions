@@ -1,22 +1,32 @@
+import threading
+
 class Foo:
     def __init__(self):
-        self.num = 0
+        self.lock_second = threading.Lock()
+        self.lock_third = threading.Lock()
+        self.lock_second.acquire()
+        self.lock_third.acquire()
+
 
     def first(self, printFirst: 'Callable[[], None]') -> None:
+        
+        # printFirst() outputs "first". Do not change or remove this line.
         printFirst()
-        self.num += 1
+
+        self.lock_second.release()
 
 
     def second(self, printSecond: 'Callable[[], None]') -> None:
-        while True:
-            if self.num == 1:
-                printSecond()
-                self.num += 1
-                break
+        self.lock_second.acquire()
+        
+        # printSecond() outputs "second". Do not change or remove this line.
+        printSecond()
+
+        self.lock_third.release()
+
 
     def third(self, printThird: 'Callable[[], None]') -> None:
-        while True:
-            if self.num == 2:
-                printThird()
-                break
-                    
+        self.lock_third.acquire()
+        
+        # printThird() outputs "third". Do not change or remove this line.
+        printThird()
