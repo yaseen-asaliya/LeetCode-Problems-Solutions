@@ -151,6 +151,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0932-beautiful-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0932-beautiful-array/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
