@@ -124,6 +124,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +146,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -204,6 +207,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
