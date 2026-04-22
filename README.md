@@ -40,6 +40,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1314-matrix-block-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1314-matrix-block-sum/) | Medium |
 | [1436-destination-city](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1436-destination-city/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1598-crawler-log-folder](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -63,6 +64,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1108-defanging-an-ip-address](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1436-destination-city](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1436-destination-city/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1598-crawler-log-folder](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -183,6 +185,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0394-decode-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1598-crawler-log-folder](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
