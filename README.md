@@ -17,6 +17,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1084-sales-analysis-iii](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [3570-find-books-with-no-available-copies](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Array
