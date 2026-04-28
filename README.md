@@ -27,6 +27,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0031-next-permutation](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0118-pascals-triangle](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -89,6 +90,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0118-pascals-triangle](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0740-delete-and-earn](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0740-delete-and-earn/) | Medium |
