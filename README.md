@@ -29,6 +29,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0075-sort-colors](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0575-distribute-candies/) | Easy |
@@ -222,6 +223,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1314-matrix-block-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1314-matrix-block-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -247,4 +249,8 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1114-print-in-order/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
