@@ -49,6 +49,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3668-restore-finishing-order](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Two Pointers
@@ -58,6 +59,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0075-sort-colors](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +218,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
