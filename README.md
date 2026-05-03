@@ -137,6 +137,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0129-sum-root-to-leaf-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0129-sum-root-to-leaf-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,4 +259,8 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 <!---LeetCode Topics End-->
