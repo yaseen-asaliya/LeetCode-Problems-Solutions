@@ -117,6 +117,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0740-delete-and-earn](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [1436-destination-city](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1436-destination-city/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -174,6 +175,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0932-beautiful-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0932-beautiful-array/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +248,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
