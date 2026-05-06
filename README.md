@@ -139,6 +139,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0144-binary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -149,6 +150,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0144-binary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0144-binary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0394-decode-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1598-crawler-log-folder](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 ## Divide and Conquer
