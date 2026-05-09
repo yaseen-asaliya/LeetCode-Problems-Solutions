@@ -98,6 +98,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0740-delete-and-earn](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0788-rotated-digits](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0788-rotated-digits/) | Medium |
+| [1025-divisor-game](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -175,6 +176,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0812-largest-triangle-area](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0932-beautiful-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0932-beautiful-array/) | Medium |
+| [1025-divisor-game](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
@@ -269,4 +271,12 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
