@@ -44,6 +44,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [1314-matrix-block-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1314-matrix-block-sum/) | Medium |
 | [1436-destination-city](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1436-destination-city/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1598-crawler-log-folder](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -205,6 +206,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0496-next-greater-element-i](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1598-crawler-log-folder](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -217,6 +219,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
