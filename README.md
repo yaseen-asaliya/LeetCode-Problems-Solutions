@@ -61,6 +61,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0031-next-permutation](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0696-count-binary-substrings](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String
@@ -69,6 +70,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0014-longest-common-prefix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0394-decode-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0696-count-binary-substrings](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0722-remove-comments](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0722-remove-comments/) | Medium |
 | [0824-goat-latin](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0824-goat-latin/) | Easy |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
