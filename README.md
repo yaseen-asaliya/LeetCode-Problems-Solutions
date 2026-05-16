@@ -187,6 +187,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1641-count-sorted-vowel-strings](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [1837-sum-of-digits-in-base-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
