@@ -28,6 +28,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0064-minimum-path-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -119,6 +120,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0575-distribute-candies/) | Easy |
@@ -291,4 +293,8 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1025-divisor-game/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
