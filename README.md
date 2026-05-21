@@ -53,6 +53,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [2022-convert-1d-array-into-2d-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| [2373-largest-local-values-in-a-matrix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3668-restore-finishing-order](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -117,6 +118,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1314-matrix-block-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1314-matrix-block-sum/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2373-largest-local-values-in-a-matrix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
