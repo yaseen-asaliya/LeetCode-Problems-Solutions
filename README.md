@@ -50,6 +50,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1572-matrix-diagonal-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1598-crawler-log-folder](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
@@ -193,6 +194,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,4 +301,8 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
