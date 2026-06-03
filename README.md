@@ -156,6 +156,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +168,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +185,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0222-count-complete-tree-nodes](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
