@@ -138,6 +138,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [3668-restore-finishing-order](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3945-digit-frequency-score](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3945-digit-frequency-score](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
