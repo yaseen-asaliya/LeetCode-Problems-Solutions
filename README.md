@@ -78,6 +78,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [0824-goat-latin](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0824-goat-latin/) | Easy |
 | [0942-di-string-match](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1436-destination-city](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1436-destination-city/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1598-crawler-log-folder](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
