@@ -4,15 +4,13 @@ class Solution:
         x = len(s) - 1
 
         while x >= 0:
-            t = ""
 
             if s[x] == '#':
-                t = s[x-2] + s[x-1]
+                res = chr(int(s[x-2] + s[x-1]) + 96) + res
                 x-=2
             else:
-                t = s[x]
+                res = chr(int(s[x]) + 96) + res
 
-            res = chr(int(t) + 96) + res
             x-=1
 
         return res
