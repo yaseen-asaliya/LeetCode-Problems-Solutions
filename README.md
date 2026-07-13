@@ -56,6 +56,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Two Pointers
@@ -204,6 +205,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3945-digit-frequency-score](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
