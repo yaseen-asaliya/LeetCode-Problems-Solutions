@@ -58,6 +58,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
