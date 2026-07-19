@@ -85,6 +85,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1598-crawler-log-folder](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2490-circular-sentence](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2490-circular-sentence/) | Easy |
@@ -138,6 +139,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1636-sort-array-by-increasing-frequency](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3668-restore-finishing-order](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
@@ -289,6 +291,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
