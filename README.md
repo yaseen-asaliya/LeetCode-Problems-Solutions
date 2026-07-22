@@ -87,6 +87,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1598-crawler-log-folder](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2103-rings-and-rods](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2490-circular-sentence](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2490-circular-sentence/) | Easy |
@@ -103,6 +104,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
