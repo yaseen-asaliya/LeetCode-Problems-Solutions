@@ -216,6 +216,7 @@ Feel free to browse through the solutions for different LeetCode problems. Each 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3908-valid-digit-number](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3908-valid-digit-number/) | Easy |
 | [3945-digit-frequency-score](https://github.com/yaseen-asaliya/LeetCode-Problems-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
